@@ -1,4 +1,4 @@
-# Aura Lab
+# Neon › Oiran Aura Lab
 
 Welcome to **Aura Lab**, a creative studio focused on building interactive web experiences, games, experiments, tools, and digital projects.
 
