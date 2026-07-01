@@ -72,6 +72,14 @@ Aura Lab aims to create:
 - Educational projects
 - Community-driven creations
 
+## 🌐 Demo
+
+You can try Nexura OS right now by opening the `Nexura OS.html` file in your browser, or by hosting it on any static server (GitHub Pages, Netlify, etc.).
+
+https://hcodx.com/vs-editor?project=p_mr1u1k2o_3z0iv1
+
+---
+
 ## 🤝 Contributing
 
 Suggestions, bug reports, and ideas are always welcome.
