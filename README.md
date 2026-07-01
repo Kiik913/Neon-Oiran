@@ -74,7 +74,7 @@ Aura Lab aims to create:
 
 ## 🌐 Demo
 
-You can tryNeon › Oiran Aura Lab  right now by opening the `Neon › Oiran Aura Lab.html` file in your browser, or by hosting it on any static server (GitHub Pages, Netlify, etc.).
+You can try Neon › Oiran Aura Lab  right now by opening the `Neon › Oiran Aura Lab.html` file in your browser, or by hosting it on any static server (GitHub Pages, Netlify, etc.).
 
 https://hcodx.com/vs-editor?project=p_mr1u1k2o_3z0iv1
 
